@@ -80,3 +80,5 @@ This is an educational project and should receive further security testing befor
 GitHub: https://github.com/NkzAyano
 
 ## 📜
+
+<img width="1052" height="707" alt="Captura de tela 2026-11-04 210657" src="https://github.com/user-attachments/assets/b970734e-afd2-4a86-b875-d6a08f6d6964" />
