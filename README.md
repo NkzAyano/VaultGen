@@ -30,7 +30,7 @@ NKZ Password Vault is a local password management application designed to store 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/NKZ-Password-Vault.git
+git clone https://github.com/NkzAyano/NKZ-Password-Vault.git
 ```
 
 Enter the project folder:
